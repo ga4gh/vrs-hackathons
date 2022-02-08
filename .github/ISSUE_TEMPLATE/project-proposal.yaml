@@ -2,7 +2,7 @@ name: project proposal
 description: VRS Hackathon Project Proposal
 title: "[Project title]"
 labels: project proposal
-assignees: ''
+assignees: ""
 
 body:
   - type: input
@@ -30,18 +30,17 @@ body:
     id: submitter_additional
     attributes:
       label: Additional Submitter Details
-      placeholder: 
   - type: checkboxes
     id: event_days
     attributes:
-      label: On which event days would the project be offered?
+      label: Which event day would the project be offered?
       description: You may select more than one.
       options:
         - label: ISMB 2022 Hackathon Day 1
         - label: ISMB 2022 Hackathon Day 2
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     id: project_details
     attributes:
       label: Project Details
