@@ -47,7 +47,7 @@ body:
       description: Discuss what the project intends to accomplish and how it improves the use of VRS
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     id: required_skills
     attributes:
       label: Required Skills
