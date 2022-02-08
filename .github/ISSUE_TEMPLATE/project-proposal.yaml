@@ -23,7 +23,7 @@ body:
     id: submitter_githubid
     attributes:
       label: Submitter Github Handle
-      placeholder: @johndoe999
+      placeholder: johndoe999
     validations:
       required: true
   - type: textarea
