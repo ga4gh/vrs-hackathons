@@ -17,6 +17,6 @@ on the top-level comment. If you want to see a proposed project clarified or oth
 to the issue and get a discussion going! If you have an idea for a project proposal that is not
 yet listed, [propose it](https://github.com/ga4gh/vrs-hackathons/issues/new?assignees=&labels=project+proposal&template=project-proposal.md&title=%5BProject+title%5D)! 
 
-Please submit all proposals **before May 12th, 2022**.
+Please submit all proposals **by May 20th, 2022** for earliest consideration by the Hackathon organizers.
 
 Head over to the [proposal tracker](https://github.com/ga4gh/vrs-hackathons/issues?q=is%3Aissue+is%3Aopen+label%3A%22project+proposal%22) to get started!
