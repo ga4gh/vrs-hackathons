@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/811065/152251526-f59594e4-5a87-47e8-aa71-a2ed53fe6e95.png)
 
+> [!IMPORTANT]
+> This repo is archived. Please use the [GKS Portal Repo](https://github.com/ga4gh/gks-portal/) instead.
+
 # VRS Hackathons
 Welcome to the repository for GA4GH Variation Representation Specification hackathon tracking. 
 
